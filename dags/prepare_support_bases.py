@@ -11,7 +11,8 @@ from airflow.providers.amazon.aws.hooks.s3 import S3Hook
 from airflow.models import Variable
 
 DAG_ID = os.path.realpath(__file__).split("/")[-1].replace(".py","")
-PATH_FILES = "/home/ronanripasy/airflow_pysus/local_transient_area"
+path = os.getcwd()
+PATH_FILES = f"{path}/local_transient_area"
 
 # Connections
 AWS_CONN_ID="AWS_connection"

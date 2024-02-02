@@ -8,8 +8,9 @@ from airflow.providers.amazon.aws.operators.redshift_data import RedshiftDataOpe
 from airflow.models import Variable
 
 DAG_ID = os.path.realpath(__file__).split("/")[-1].replace(".py","")
-PATH_SCRIPTS = "/home/ronanripasy/airflow_pysus/scripts"
-PATH_FILES = "/home/ronanripasy/airflow_pysus/local_transient_area"
+path = os.getcwd()
+PATH_SCRIPTS = f"{path}/scripts"
+PATH_FILES = f"{path}/local_transient_area"
 
 # Connections
 AWS_CONN_ID="AWS_connection"

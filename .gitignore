@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+logs/
+
+airflow.cfg
+
+airflow.db
+
+webserver_config.py

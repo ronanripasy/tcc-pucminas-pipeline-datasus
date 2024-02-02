@@ -1,0 +1,39 @@
+CODIGO;DESCRICAO
+01;Cirúrgico
+02;Obstétricos
+03;Clínico
+04;Crônicos
+05;Psiquiatria
+06;Pneumologia Sanitária (Tisiologia)
+07;Pediátricos
+08;Reabilitação
+09;Leito Dia / Cirúrgicos
+10;Leito Dia / Aids
+11;Leito Dia / Fibrose Cística
+12;Leito Dia / Intercorrência Pós-Transplante
+13;Leito Dia / Geriatria
+14;Leito Dia / Saúde Mental
+64;Unidade Intermediária
+65;Unidade Intermediária Neonatal
+74;UTI I
+75;UTI Adulto II
+76;UTI Adulto III
+77;UTI Infantil I
+78;UTI Infantil II
+79;UTI Infantil III
+80;UTI Neonatal I
+81;UTI Neonatal II
+82;UTI Neonatal III
+83;UTI Queimados
+84;Acolhimento Noturno
+85;UTI Coronariana-UCO tipo II
+86;UTI Coronariana-UCO tipo III
+87;Saúde Mental (Clínico)
+88;Queimado Adulto (Clínico)
+89;Queimado Pediátrico (Clínico)
+90;Queimado Adulto (Cirúrgico)
+91;Queimado Pediátrico (Cirúrgico)
+92;UCI Unidade de Cuidados Intermediarios Neonatal Convencional
+93;UCI Unidade de Cuidados Intermediarios Neonatal Canguru
+94;UCI Unidade de Cuidados Intermediarios Pediatrico
+95;UCI Unidade de Cuidados Intermediarios Adulto
